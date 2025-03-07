@@ -1,18 +1,15 @@
-Here's a **README.md** file for your **`network_to_memory_image`** Flutter package:
+Here's a README.md file for network_to_memory_image Flutter package:
 
 ---
-
-### **📌 `README.md` Content**
 
 ```md
 # Network to Memory Image
 
 [![Pub.dev](https://img.shields.io/pub/v/network_to_memory_image)](https://pub.dev/packages/network_to_memory_image)  
-A simple Flutter package to convert network images into `Uint8List` (memory format), enabling efficient image manipulation and offline usage.
+A Flutter package to convert network images into `Uint8List` for efficient image manipulation and offline usage.
 
 ## ✨ Features
-- Load a single network image and convert it to memory (`Uint8List`).
-- Load multiple images simultaneously.
+- Load single or multiple network images into memory (`Uint8List`).
 - Easily integrate with `Image.memory()`.
 - Handles invalid URLs gracefully.
 
@@ -23,7 +20,7 @@ dependencies:
   network_to_memory_image: latest_version
 ```
 
-Then, run:
+Run:
 ```sh
 flutter pub get
 ```
@@ -146,12 +143,12 @@ class _MyAppState extends State<MyApp> {
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+MIT License
 
 ## 🧑‍💻 Developer
 - **Jeeva G**
-    - 🌍 [LinkedIn](https://www.linkedin.com/in/jeeva-g-r0628/)
-    - 📂 [GitHub](https://github.com/Jeeva0604/network_to_memory_image)
+  - 🌍 [LinkedIn](https://www.linkedin.com/in/jeeva-g-r0628/)
+  - 📂 [GitHub](https://github.com/Jeeva0604/network_to_memory_image)
 
 ---
 
@@ -161,18 +158,4 @@ If you find this package useful, give it a ⭐ on [GitHub](https://github.com/Je
 
 ---
 
-## **📌 Next Steps**
-1. **Add this README to your repository**  
-   Save the content above as `README.md` and push it to your GitHub repo.
-   
-2. **Publish on Pub.dev**  
-   Run:
-   ```sh
-   flutter pub publish --dry-run
-   ```
-If no errors, publish using:
-   ```sh
-   flutter pub publish
-   ```
-
-Let me know if you need any modifications! 🚀🔥
+This version is concise, removes unnecessary content, and focuses on the essential details. Let me know if you need further adjustments! 🚀
