@@ -1,7 +1,8 @@
 name: network_to_memory_image
 description: "The NetworkToMemoryImage library fetches network images and converts them into Uint8List for easy use in Flutter. It supports single and multiple image downloads with error handling, making it ideal for loading and caching images efficiently."
 version: 1.0.0
-homepage:
+homepage: https://github.com/Jeeva0604/network_to_memory_image
+repository: https://github.com/Jeeva0604/network_to_memory_image
 
 environment:
   sdk: ^3.6.0
